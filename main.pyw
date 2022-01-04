@@ -211,8 +211,7 @@ class AttendanceScreen:
             if str(self.attendee_name) == "QR code is not recognized." or str(self.attendee_name) == "":
                 display_attendee_name.text = str(self.attendee_name)
             else:
-                first_name = self.attendee_name.split()
-                display_attendee_name.text = "Hello, " + str(first_name[0]) + ".\nWelcome to CCF Tanay!"
+                display_attendee_name.text = "Hello, " + str(self.attendee_name) + ".\nWelcome to CCF Tanay!"
 
         # CAMERA FUNCTIONS
         def ReadQRcodes(frame, id_list, filename: str):
