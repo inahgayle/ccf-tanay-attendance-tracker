@@ -1,5 +1,5 @@
-VERSION LOG
+CHANGELOG
 
-v1.0.0 - 1/3/2022 First working version ready for distribution.
+v0.1.0 - 1/3/2022 First working version ready for distribution.
 
-v1.0.1 - 1/5/2022 Modified code to display full first name.
+v0.1.1 - 1/5/2022 Modified code to display full first name.
