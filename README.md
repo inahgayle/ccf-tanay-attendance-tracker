@@ -1,4 +1,4 @@
-# CCF Tanay Attendance
+# CCF Tanay Attendance Tracker
 
 A program that automates the attendance tracking of CCF Tanay in physical gatherings by scanning attendees' personal QR codes. It also generates an Excel file that contains information about each attendee.
 
